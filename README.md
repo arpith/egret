@@ -1,2 +1,2 @@
 # egret
-Ruby script to download 
+Ruby script to download webpages
