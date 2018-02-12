@@ -1,5 +1,4 @@
 require 'socket'
-require 'ipaddr'
 require 'uri'
 include Socket::Constants
 
